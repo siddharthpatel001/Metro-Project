@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 name : Metro Project
 Packages Required :
 	1.tkinter ->For Graphical User Interface
